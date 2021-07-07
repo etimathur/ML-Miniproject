@@ -1,5 +1,5 @@
-# ML Mini project - Vaccine Trends Analyzing System<br>
-Made By - Etisha Mathurvaishya -39, Sakshi Haswani -25, Anjali Hassani -24<br>
+#Vaccine Trends Analyzing System<br>
+
 ## Abstract<br>
 In times of covid, as the number of cases are increasing day by day, the only ray of hope is vaccines. Thus, we have designed a system which aims to analyze various trends related to vaccination. The system will be used to predict the amount of vaccines distributed in future. Also we can classify the locality into zones according to its population, number of cases active and number of people vaccinated at a particular locality. We also cluster these localities according to the population and number of people vaccinated. <br>
 ## Algorithms<br>
